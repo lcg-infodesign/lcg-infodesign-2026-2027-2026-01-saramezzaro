@@ -1,4 +1,4 @@
-let xMax = 500
+let xMax = 500;
 let yMax = 700;
 
 let xBarca = -200;
